@@ -1,0 +1,8 @@
+{
+    "name": "eelf/protobuf",
+    "autoload": {
+        "psr-4": {
+            "Eelf\\Protobuf\\": "src"
+        }
+    }
+}
